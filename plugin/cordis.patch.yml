@@ -1,0 +1,4 @@
+- insert:
+    - id: secret-guard
+      name: dsh-secret-guard
+      config: {}
